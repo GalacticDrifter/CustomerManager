@@ -1,0 +1,9 @@
+.form-horizontal input.ng-invalid.ng-dirty {
+    border-color: #FA787E;
+  }
+
+  .form-horizontal input.ng-valid.ng-dirty {
+    border-color: #78FA89;
+  }
+
+ul>li, a{cursor: pointer;}
